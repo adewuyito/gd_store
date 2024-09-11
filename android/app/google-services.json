@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78797943560",
+    "project_id": "gdsc-store",
+    "storage_bucket": "gdsc-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78797943560:android:6aa67c504e2f6302d5f2bd",
+        "android_client_info": {
+          "package_name": "com.quebase.gdstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVKa1VRXoTnHPMEXsJBbvCF2ydUxQ4tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
